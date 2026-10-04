@@ -1,0 +1,15 @@
+# Shared dependencies for the included notebooks; versions are not pinned.
+numpy
+scipy
+matplotlib
+future
+six
+imageio
+pillow
+h5py
+torch
+torchvision
+tqdm
+Cython
+ipykernel
+jupyterlab

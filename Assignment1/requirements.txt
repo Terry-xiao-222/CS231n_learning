@@ -1,0 +1,6 @@
+numpy
+matplotlib
+future
+imageio
+ipykernel
+six
